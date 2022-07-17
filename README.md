@@ -3,7 +3,7 @@
 # Hey! Welcome to 0xCleon Github 🥷 #
 
 
-<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python.png" alt="python" height="100" title="Python documentation"></a>
+<a href="https://docs.python.org/3/library/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" height="100" title="Python documentation"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"><img src="./assets/JavaScript-logo" alt="JavaScript" height="100" title="JavaScript documentation"></a>
 <a href="https://www.rust-lang.org/"><img src="./assets/Rust_logo.png" alt="Rust" height="100" title="Rust documentation🦀"></a>
 <a href="https://devdocs.io/c/"><img src="./assets/c.png" alt="C" height="100" title="C reference"></a>

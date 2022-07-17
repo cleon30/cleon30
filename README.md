@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-# Hey 🥷! Welcome to 0xCleon Github 🦀⚔🥷 #
+# Hey 🥷! Welcome to 0xCleon Github 🦀⚔🦀 #
 
 
 <a href="https://docs.python.org/3/library/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" height="100" title="Python documentation"></a>

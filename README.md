@@ -7,10 +7,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="100" title="JavaScript documentation"></a>
 <a href="https://www.rust-lang.org/"><img src="https://pbs.twimg.com/media/CSUEf0kUwAAoqFo.png" alt="Rust" height="100" title="Rust documentation🦀"></a>
 <a href="https://www.rust-lang.org/"><img src="https://i1.feedspot.com/200/4862899.jpg" alt="Rust" height="100" title="Rust documentation🦀🦀"></a>
-
 <a href="https://devdocs.io/c/"><img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="C" height="100" title="C reference"></a>
-
-
 <a href="mailto:martinleoncarlos1@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 <a href="https://www.linkedin.com/in/carlos-martin-leon/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Linkedin" height="50" title="Linkedin profile"></a>
 <a href="https://github.com/UPCodersEEBE"><img src="./assets/upcoders.jpeg" alt="UPCoders" height="50" title="UPCoders"></a>

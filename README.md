@@ -21,7 +21,7 @@
 </p>
 
 
-<!-- activity graph heroku-app start -->
+<!-- activity graph heroku-app start 
 <p align="center">
     <a href="https://github.com/cleon30">
         <img src="https://activity-graph.herokuapp.com/graph?username=cleon30&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">

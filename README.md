@@ -12,7 +12,7 @@ I'm a software engineer who is passionate about Blockchain technologies and AI. 
 
 ## 🛠 Tech Stack
 
-- 🐍 Python | ⚛️ React | 🦀 Rust | ⚙️ C | 🌐 JavaScript | 🔶 Solana
+-  🦀 Rust | ⚙️ C | 🌐 JavaScript | 🐍 Python | ⚛️ React | 🔶 Solana
 
 ## Connect with me 🌎
 

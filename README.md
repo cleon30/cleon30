@@ -27,12 +27,6 @@ I'm a software engineer who is passionate about Blockchain technologies and AI. 
 <a href="https://github.com/cleon30?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cleon30&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="@0xCleon's GitHub Streak" width="48%"/></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/cleon30">
-        <img src="https://activity-graph.herokuapp.com/graph?username=cleon30&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=0xCleon's%20Contribution%20Graph" width="95%" alt="Activity Graph">
-    </a>
-</p>
-
 ## 🤝 How to reach me
 
 If you wish to discuss things I'm working on or want to collaborate on a project, feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/carlos-martin-leon/) or [Gmail](mailto:martinleoncarlos1@gmail.com).

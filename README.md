@@ -4,8 +4,10 @@
 
 ## About Me 🚀
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, JavaScript, and Rust. 
+I'm a software engineer who is passionate about Blockchain technologies and AI. Some technologies I enjoy working with include Rust and Typescript.
+
 🤖 Currently building Transparent Autonomous Layer(TAL)    
+
 💬 Ask me about coding, tech or Blockchain!  
 
 ## 🛠 Tech Stack

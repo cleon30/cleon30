@@ -6,7 +6,7 @@
 
 I'm a software engineer who is passionate about Blockchain technologies and AI. Some technologies I enjoy working with include Rust and Typescript.
 
-🤖 Currently building Transparent Autonomous Layer(TAL)    
+🤖 Currently building DAIN    
 
 💬 Ask me about coding, tech or Blockchain!  
 

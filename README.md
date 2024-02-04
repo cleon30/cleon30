@@ -4,7 +4,7 @@
 
 ## About Me 
 
-Engineer passionate about Blockchain technologies and Multi-Agent Systems. Pushing the limits of what is possible in the Matrix. 
+Engineer passionate about Blockchain technologies and Multi-Agent Systems. Pushing the limits of what is possible in this world. 
 
 DAIN Blockchain Lead.
 

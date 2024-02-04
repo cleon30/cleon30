@@ -1,14 +1,14 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-# Hey, I am Cleon 🥷
+# Hey, I am Cleon 
 
-## About Me 🚀
+## About Me 
 
 Engineer passionate about Blockchain technologies and Multi-Agent Systems. Pushing the limits of what is possible in the Matrix. 
 
 DAIN Blockchain Lead.
 
-## 🤝 How to reach me
+## How to reach me
 
 If you wish to discuss things I'm working on or want to collaborate on a project, feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/carlos-martin-leon/) or [Gmail](mailto:martinleoncarlos1@gmail.com).
 
